@@ -1,0 +1,13 @@
+Package: phenoDLM
+Type: Package
+Title: Dynamic Linear Models for Phenological Event Estimation
+Version: 1.0
+Date: 2018-10-16
+Author: Maggie Johnson
+Maintainer: Maggie Johnson <maggie.johnson@jpl.nasa.gov>
+Description: Provides functionality to implement a fully Bayesian approach to model remotely sensed vegetation index (VI) data for the purpose of phenological event estimation.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.18), dlm (>= 1.1.5), abind (>= 1.4.5), coda, reshape2, MCMCglmm
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.1.0
+LazyData: true
