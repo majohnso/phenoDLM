@@ -6,7 +6,7 @@
   Phenological event estimation using Bayesian DLMs.
 }
 \description{
-This package provides functionality to implement the Bayesian DLM approach described in Johnson et al, (2019) for phenological event estimation from remotely sensed vegetation index (VI) data products.
+This package provides functionality to implement the Bayesian DLM approach described in Johnson et al., (2019) for phenological event estimation from remotely sensed vegetation index (VI) data products.
 }
 
 \author{
