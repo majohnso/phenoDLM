@@ -11,3 +11,6 @@ Imports: Rcpp (>= 0.12.18), dlm (>= 1.1.5), abind (>= 1.4.5), coda, reshape2, MC
 LinkingTo: Rcpp, RcppArmadillo
 RoxygenNote: 6.1.0
 LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
