@@ -5,5 +5,3 @@
 src/*.o
 src/*.so
 src/*.dll
-phenoDLM.R
-phenoDLM.Rproj
